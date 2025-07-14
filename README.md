@@ -13,5 +13,5 @@ This repository contains basic Linux system administration tasks and their imple
 
 ## 📎 GitHub Repo
 
-🔗 [GitHub Repo Link](https://github.com/your-username/your-repo-name)  
+🔗 [GitHub Repo Link](https://github.com/Rutusigmoidanalytics/Linux_Assignment/tree/main)  
 
